@@ -1,9 +1,8 @@
 # local package
 -e .
-
+contextfree
 # external requirements
 click
-Sphinx
 coverage
 awscli
 flake8
